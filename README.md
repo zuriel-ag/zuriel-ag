@@ -1,8 +1,6 @@
 ## ABOUT ME 
 💻🤖🚵⚽🚀🏊‍♂️🧙‍♂️
 
-
-
 I'm an Embedded Systems Engineer with experience building efficient, reliable, and scalable solutions across aviation, agriculture, and low-power IoT domains. 
 My work spans from low-level firmware to application-layer development.
 
@@ -13,6 +11,9 @@ My work spans from low-level firmware to application-layer development.
 >- CAN, LIN, SDIO, UART, SPI, I2C protocols , BLE
 >- SDLC
 
+<details>
+  <summary>More about me ...</summary>
+  
 🚀 **Technologies & Tools**  
 >- Zephyr RTOS | ARM Cortex-M | Bluetooth LE  | Linux | Buldroot
 >- C / C++ / Python (basic) / Shell
@@ -23,6 +24,8 @@ My work spans from low-level firmware to application-layer development.
 >- Aerospace (safety-critical software, power management)  
 >- Agriculture (vehicle automation & diagnostics)  
 >- Automotive (low-energy embedded apps, sensor integration)  
+
+</details>
 
 🧠 **New Interests**  
 I'm currently exploring the intersection between **Embedded Systems and Artificial Intelligence**, with a focus on **edge AI** and **intelligent energy-aware applications**.
